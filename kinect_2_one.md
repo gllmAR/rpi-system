@@ -2,10 +2,9 @@
 
 ![kinec_one](https://m.media-amazon.com/images/S/aplus-media/mg/ec801571-863a-4ed2-ab7d-b63600d8143f._SR285,285_.png)
 
-
-
 ## installation
 ### libfreenect2
+
 
 #### edit config.txt
 ```
@@ -57,6 +56,9 @@ sudo cp ../platform/linux/udev/90-kinect2.rules /etc/udev/rules.d/
 
 
 #### Exec Protonect gl
+
 ```
 ./libfreenect2/build/bin/Protonect gl
 ```
+
+
