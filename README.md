@@ -2,10 +2,9 @@
 création multimédia interactive libre -> installation système 
 
 
-## test de seconde page
-![test png](medias/../media/processus_installation.drawio.png)
 
-avec texte de description en png
+## [kinect2](./kinect_2_one.html)
+
 
 
 ## test de 3e page
