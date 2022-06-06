@@ -2,8 +2,6 @@
 
 ![kinec_one](https://m.media-amazon.com/images/S/aplus-media/mg/ec801571-863a-4ed2-ab7d-b63600d8143f._SR285,285_.png)
 
-## references
-* https://github.com/Jyurineko/libfreenect2-Raspberry-Pi4-support
 
 
 ## installation
@@ -34,9 +32,9 @@ sudo apt update
 sudo apt install libgles2-mesa-dev
 ```
 
+
 #### make libfreenect2
-Now similar to Linux install description from: 
-* https://github.com/OpenKinect/libfreenect2 
+* -> https://github.com/OpenKinect/libfreenect2 
 
 ```
 sudo apt-get install libusb-1.0-0-dev
@@ -58,7 +56,7 @@ sudo cp ../platform/linux/udev/90-kinect2.rules /etc/udev/rules.d/
 ```
 
 
-
+#### Exec Protonect gl
 ```
 ./libfreenect2/build/bin/Protonect gl
 ```
