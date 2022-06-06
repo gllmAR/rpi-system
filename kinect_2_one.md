@@ -22,7 +22,7 @@ console=serial0,115200 console=tty1 root=PARTUUID=e0e69b19-02 rootfstype=ext4 el
 ```
 
 
-#### installa libfreenect dependencies
+#### install libfreenect dependencies
 ```
 git clone https://github.com/Jyurineko/libfreenect2
 sudo apt install libudev-dev
